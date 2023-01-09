@@ -2,12 +2,13 @@
 Combine Multiple Shapefiles into one with Python
 
 
+
 Shapefiles are a popular geospatial data format commonly used in geographic information systems (GIS) software. They store both the geometry and attributes of spatial features, such as points, lines, and polygons. If you have multiple shapefiles that you want to merge into a single file, Python can make it easy to do so.
 
 To combine shapefiles using Python, we will need to use the following libraries:
 
-1.  os: This library will be used to traverse through the directories and files on your system.
-2.  geopandas: This library will be used to read and write shapefiles, as well as manipulate the data within them.
+1.  **os**: This library will be used to traverse through the directories and files on your system.
+2.  **geopandas**: This library will be used to read and write shapefiles, as well as manipulate the data within them.
 
 Here is the script that demonstrates how to combine multiple shapefiles into a single shapefile:
 
